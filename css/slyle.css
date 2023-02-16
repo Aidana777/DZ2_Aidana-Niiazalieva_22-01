@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: 1px solid;
+    position: relative;
+    border-radius: 50%;
+
+}
+
+.box {
+    margin: 0 auto;
+    width: 20px;
+    height: 20px;
+    background-color: orange;
+    position: absolute;
+
+
+}
+
+box {
+    width: 180px;
+    height: 180px;
+    background: black;
+    margin: 20px 50px;
+}
