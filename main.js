@@ -20,6 +20,6 @@ let position = 0;
 
 setInterval(function () {
     position += 3.14 / 70
-    box.style.top = `${240 + 235 * Math.cos(position)}px`
-    box.style.right = `${240 + 235 * Math.sin(position)}px`
+    box.style.top = `${240 + 237 * Math.cos(position)}px`
+    box.style.right = `${242 + 237 * Math.sin(position)}px`
 }, 60)
